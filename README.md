@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @DennisHernandezCS, 
--   My name is Dennis Hernandez (duh)
+    My name is Dennis Hernandez (duh)
+
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
--   Currently attaining a MSCS from Northeastern University
+
+- 🌱 I’m Currently attaining a MSCS from Northeastern University
+
 - 💞️ I’m looking to collaborate on ...
--   Anything that I cna provide meaningful value for the project and that will reinforce my education and Force me learn new skills
+      Anything that I can provide meaningful value for the project and that will reinforce my education and Force me learn new skills
+
 - 📫 How to reach me ...
 
 <!---
