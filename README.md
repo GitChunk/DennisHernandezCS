@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DennisHernandezCS, 
-    My name is Dennis Hernandez (duh)
+- 👋 Hi, I’m @GitChunk, 
+    My name is Dennis Hernandez
 
 - 👀 I’m interested in ...
 
@@ -11,6 +11,6 @@
 - 📫 How to reach me ...
 
 <!---
-DennisHernandezCS/DennisHernandezCS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GitChunk/GitChunk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
